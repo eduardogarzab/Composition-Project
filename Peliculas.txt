@@ -1,0 +1,10 @@
+472 2013 180 Drama 2 87 73 El Lobo de Wall Street
+627 2012 122 Drama 2 53 29 Los Juegos del Destino
+635 2003 200 Aventuras 3 34 75 47 El Senior de los Anillos
+246 2012 158 Drama 3 17 23 48 Los Miserables
+545 1997 195 Drama 2 87 12 Titanic
+324 2012 142 Aventuras 2 53 82 Los Juegos del Hambre
+527 2015 124 Drama 2 53 26 Joy
+827 2015 121 Comedia 2 26 48 Pasante de Moda
+971 2010 108 Fantasia 2 48 83 Alicia en el Pais de las Maravillas
+736 1994 142 Drama 2 39 52 Forrest Gump
